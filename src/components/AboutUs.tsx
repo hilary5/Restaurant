@@ -95,7 +95,7 @@ const AboutUs = () => {
             <Text as="b" color="orangered" my={1} fontSize="4xl">
               10K
             </Text>
-            <Text my={1}>Global downloads</Text>
+            <Text my={1}>Food Deliveries</Text>
             <Text my={3}>
               We focus on the details of everything we do. all to help
               businesses around the world focus on what is most important to
